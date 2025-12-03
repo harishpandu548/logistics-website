@@ -10,7 +10,7 @@ import {
   FaTimes,
 } from "react-icons/fa";
 import { motion, AnimatePresence } from "framer-motion";
-import logo from "../assets/RP logo.png";
+import logo from "../assets/rp-logo.png";
 
 export default function Navbar() {
   const location = useLocation();

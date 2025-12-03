@@ -3,10 +3,10 @@ import { motion, AnimatePresence } from "framer-motion";
 import { FaChevronLeft, FaChevronRight, FaTruck, FaIndustry, FaShieldAlt, FaClock } from "react-icons/fa";
 
 // Images
-import shipContainer from "../assets/ship with container.jpg";
-import stoneCrusher from "../assets/four stage stone crusher.png";
-import buildings from "../assets/few building.png";
-import lorryGoods from "../assets/lorry carrying goods.jpg";
+import shipContainer from "../assets/ship-with-container.jpg";
+import stoneCrusher from "../assets/four-stage-stone-crusher.png";
+import buildings from "../assets/few-building.png";
+import lorryGoods from "../assets/lorry-carrying-goods.jpg";
 
 // Slide data
 const slides = [
