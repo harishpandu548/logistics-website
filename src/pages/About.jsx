@@ -1,4 +1,4 @@
-import { motion } from "framer-motion";
+// import { motion } from "framer-motion";
 import { FaMountain, FaTruck, FaBuilding, FaGlobe } from "react-icons/fa";
 
 export default function About() {
