@@ -83,7 +83,7 @@ export default function Navbar() {
         {/* Logo */}
         <motion.div variants={itemVariants}>
           <MotionLink to="/" className="flex items-center space-x-2" whileHover={{ scale: 1.2 }} transition={{ type: "spring", stiffness: 200 }}>
-            <img src={logo} alt="RP Logo" className="h-10 w-auto" />
+            <img src={logo} alt="RPLogo" className="h-10 w-auto" />
             <h1 className="text-sm font-semibold text-white">RP ASSOCIATES</h1>
           </MotionLink>
         </motion.div>

@@ -9,7 +9,7 @@ import {
 import { motion, AnimatePresence } from "framer-motion";
 import { Link } from "react-router-dom";
 import { useState } from "react";
-import logo from "../assets/RP logo.png";
+import logo from "../assets/rp-logo.png";
 
 export default function Footer() {
   const [isProductsOpen, setIsProductsOpen] = useState(false);
